@@ -202,7 +202,7 @@ const LayoutBase = props => {
           {/*  右侧侧推拉抽屉 */}
           {fullWidth ? null : (
             <div
-              style={{ width: '40rem' }}
+              style={{ width: '32rem' }}
               className={
                 'hidden xl:block dark:border-transparent flex-shrink-0 relative z-10 '
               }>
